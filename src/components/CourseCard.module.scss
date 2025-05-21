@@ -1,0 +1,14 @@
+.course-container {
+  width: 100%;
+  color: white;
+  box-sizing: border-box;
+  background-color: rgb(62, 127, 230);
+  border-radius: 12px;
+  padding: 5px 10px;
+  box-shadow: 0 8px 12px rgba(128, 128, 128, 0.9);
+  /* Margin top and bottom collapses, margin between two boxes will still be 20px*/
+  margin: 20px 0;
+  p {
+    padding: 0 10px;
+  }
+}
